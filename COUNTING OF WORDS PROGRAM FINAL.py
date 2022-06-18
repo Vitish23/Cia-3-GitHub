@@ -25,7 +25,7 @@ Print("Please Feel free to give us feedback")
 # In[ ]:
 Print("The Feedback Message and Mail is sent, Please provide it")
 
-
+print("Please do Visit our Store")
 
 
 # In[ ]:
